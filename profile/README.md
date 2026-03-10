@@ -1,35 +1,29 @@
-<!-- Banner Hero Section -->
-<p align="center">
-  <img src="./img/banner.png" alt="Zaryx Studios Banner" style="width: 100%; max-width: 1200px; border-radius: 10px;" />
-</p>
-
-<br>
-
-<!-- Logo & Title Section -->
+<!-- Logo Hero Section -->
 <div align="center">
-  <img src="./img/Zaryx_Logo_Studio.png" alt="Zaryx Studios Logo" width="180" style="margin-bottom: 20px;" />
+  <br>
+  <img src="./img/Zaryx_Logo_Studio.png" alt="Zaryx Studios Logo" width="250" />
+  <br><br>
   
-  <h1 style="font-size: 3em; margin: 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=ZARYX+STUDIOS;Building+The+Future;Minecraft+Excellence" alt="Typing SVG" />
-  </h1>
+  <!-- Animated Title -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&height=80&lines=ZARYX+STUDIOS+%E2%9A%A1;Building+The+Future+%F0%9F%9A%80;Minecraft+Excellence+%F0%9F%94%A5;Premium+Quality+Code+%F0%9F%92%8E" alt="Typing SVG" />
   
-  <h3>💎 Transforming Ideas Into Code 💎</h3>
+  <br>
   
-  <p>
-    <strong>Building powerful tools for developers & Minecraft servers</strong>
-  </p>
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FFA500&center=true&vCenter=true&width=500&lines=%F0%9F%92%8E+Transforming+Ideas+Into+Code+%F0%9F%92%8E;%E2%9C%A8+Premium+Minecraft+Plugins+%E2%9C%A8;%F0%9F%94%A5+Built+by+Developers%2C+for+Developers+%F0%9F%94%A5" alt="Subtitle" />
+  </h3>
 </div>
 
 <!-- Badges -->
 <p align="center">
   <a href="https://zaryxstudios.com">
-    <img src="https://img.shields.io/badge/🌐_Website-zaryxstudios.com-00D9FF?style=for-the-badge" alt="Website" />
+    <img src="https://img.shields.io/badge/🌐_Website-zaryxstudios.com-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Website" />
   </a>
   <a href="https://docs.zaryxstudios.com">
-    <img src="https://img.shields.io/badge/📚_Docs-Read_Now-9945FF?style=for-the-badge" alt="Documentation" />
+    <img src="https://img.shields.io/badge/📚_Docs-Read_Now-FFA500?style=for-the-badge&labelColor=1a1a1a" alt="Documentation" />
   </a>
   <a href="https://store.zaryxstudios.dev/">
-    <img src="https://img.shields.io/badge/🛒_Store-Shop_Now-14F195?style=for-the-badge" alt="Store" />
+    <img src="https://img.shields.io/badge/🛒_Store-Shop_Now-FF8C42?style=for-the-badge&labelColor=1a1a1a" alt="Store" />
   </a>
 </p>
 
@@ -44,6 +38,16 @@
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
   </a>
 </p>
+
+<br>
+
+<!-- Banner Showcase Section -->
+<div align="center">
+  <h2>🎨 WELCOME TO ZARYX STUDIOS</h2>
+  <img src="./img/banner.png" alt="Zaryx Studios Showcase" style="width: 95%; max-width: 1100px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+  <br>
+  <sub><i>Building powerful tools for developers & Minecraft servers since 2024</i></sub>
+</div>
 
 <br>
 
@@ -70,7 +74,7 @@
 Advanced crate system with custom animations and rewards
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZaryxStudios/Stars)  
-![Paid](https://img.shields.io/badge/💰-Paid-gold?style=for-the-badge)
+![Paid](https://img.shields.io/badge/💰-Paid-FFD700?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
@@ -82,7 +86,7 @@ Advanced crate system with custom animations and rewards
 Complete prison server core with mines, ranks & economy
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZaryxStudios/Ultra)  
-![Paid](https://img.shields.io/badge/💰-Paid-gold?style=for-the-badge)
+![Paid](https://img.shields.io/badge/💰-Paid-FFD700?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
@@ -94,7 +98,7 @@ Complete prison server core with mines, ranks & economy
 Custom kits and enchantment system for enhanced gameplay
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZaryxStudios/Water)  
-![Free](https://img.shields.io/badge/🆓-Free-green?style=for-the-badge)
+![Free](https://img.shields.io/badge/🆓-Free-00D98E?style=for-the-badge)
 
 </td>
 </tr>
@@ -108,7 +112,7 @@ Custom kits and enchantment system for enhanced gameplay
 Automated minion system for resource gathering
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZaryxStudios/Fire)  
-![Free](https://img.shields.io/badge/🆓-Free-green?style=for-the-badge)
+![Free](https://img.shields.io/badge/🆓-Free-00D98E?style=for-the-badge)
 
 </td>
 <td align="center" width="50%">
@@ -120,7 +124,7 @@ Automated minion system for resource gathering
 Robust multi-currency economy system with bank support
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZaryxStudios/Crow)  
-![Paid](https://img.shields.io/badge/💰-Paid-gold?style=for-the-badge)
+![Paid](https://img.shields.io/badge/💰-Paid-FFD700?style=for-the-badge)
 
 </td>
 </tr>
@@ -145,7 +149,7 @@ Robust multi-currency economy system with bank support
 King of the Hill plugin with custom zones and rewards
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZaryxStudios/Bonty)  
-![Free](https://img.shields.io/badge/🆓-Free-green?style=for-the-badge)
+![Free](https://img.shields.io/badge/🆓-Free-00D98E?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
@@ -157,7 +161,7 @@ King of the Hill plugin with custom zones and rewards
 Complete BoxPvP experience with kits, arenas & stats
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZaryxStudios/Limbo)  
-![Paid](https://img.shields.io/badge/💰-Paid-gold?style=for-the-badge)
+![Paid](https://img.shields.io/badge/💰-Paid-FFD700?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
@@ -169,7 +173,7 @@ Complete BoxPvP experience with kits, arenas & stats
 Server management suite with moderation tools
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZaryxStudios/Sufaris)  
-![Paid](https://img.shields.io/badge/💰-Paid-gold?style=for-the-badge)
+![Paid](https://img.shields.io/badge/💰-Paid-FFD700?style=for-the-badge)
 
 </td>
 </tr>
@@ -194,7 +198,7 @@ Server management suite with moderation tools
 Feature-rich hub core with NPCs, holograms & more
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZaryxStudios/Odyssey)  
-![Free](https://img.shields.io/badge/🆓-Free-green?style=for-the-badge)
+![Free](https://img.shields.io/badge/🆓-Free-00D98E?style=for-the-badge)
 
 </td>
 <td align="center" width="50%">
@@ -206,7 +210,7 @@ Feature-rich hub core with NPCs, holograms & more
 Multi-language translation system with API support
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZaryxStudios/Clap)  
-![Hybrid](https://img.shields.io/badge/💎-Free_+_Paid-blue?style=for-the-badge)
+![Hybrid](https://img.shields.io/badge/💎-Free_+_Paid-FF6B35?style=for-the-badge)
 
 </td>
 </tr>
@@ -230,7 +234,7 @@ Multi-language translation system with API support
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/EscanerGang.png" width="100px" style="border-radius: 50%;" /><br>
+<img src="https://github.com/EscanerGang.png" width="120px" style="border-radius: 50%; border: 3px solid #FF6B35;" /><br>
 <sub><b>🔥 EscanerGang</b></sub><br>
 <sub>Lead Developer • Escaner Division</sub>
 </td>
@@ -238,10 +242,10 @@ Multi-language translation system with API support
 </table>
 
 <a href="https://github.com/EscanerGang">
-  <img src="https://github-readme-stats.vercel.app/api?username=EscanerGang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=14F195&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="EscanerGang Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EscanerGang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FFA500&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="EscanerGang Stats" />
 </a>
 <a href="https://github.com/EscanerGang">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EscanerGang&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=14F195&currStreakLabel=00D9FF" width="49%" alt="EscanerGang Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EscanerGang&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FFA500&currStreakLabel=FF6B35" width="49%" alt="EscanerGang Streak" />
 </a>
 
 <br><br>
@@ -250,7 +254,7 @@ Multi-language translation system with API support
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/CapitoMC.png" width="100px" style="border-radius: 50%;" /><br>
+<img src="https://github.com/CapitoMC.png" width="120px" style="border-radius: 50%; border: 3px solid #FF6B35;" /><br>
 <sub><b>⚔️ CapitoMC</b></sub><br>
 <sub>Senior Developer • Capito Division</sub>
 </td>
@@ -258,10 +262,10 @@ Multi-language translation system with API support
 </table>
 
 <a href="https://github.com/CapitoMC">
-  <img src="https://github-readme-stats.vercel.app/api?username=CapitoMC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=14F195&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="CapitoMC Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CapitoMC&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FFA500&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="CapitoMC Stats" />
 </a>
 <a href="https://github.com/CapitoMC">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CapitoMC&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=14F195&currStreakLabel=00D9FF" width="49%" alt="CapitoMC Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CapitoMC&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FFA500&currStreakLabel=FF6B35" width="49%" alt="CapitoMC Streak" />
 </a>
 
 <br><br>
@@ -270,7 +274,7 @@ Multi-language translation system with API support
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/Vyran1.png" width="100px" style="border-radius: 50%;" /><br>
+<img src="https://github.com/Vyran1.png" width="120px" style="border-radius: 50%; border: 3px solid #FF6B35;" /><br>
 <sub><b>🌌 Vyran1</b></sub><br>
 <sub>Platform Engineer • Anly Division</sub>
 </td>
@@ -278,37 +282,37 @@ Multi-language translation system with API support
 </table>
 
 <a href="https://github.com/Vyran1">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vyran1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=14F195&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="Vyran1 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vyran1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FFA500&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="Vyran1 Stats" />
 </a>
 <a href="https://github.com/Vyran1">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vyran1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=14F195&currStreakLabel=00D9FF" width="49%" alt="Vyran1 Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vyran1&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FFA500&currStreakLabel=FF6B35" width="49%" alt="Vyran1 Streak" />
 </a>
 
 <br><br>
 
 ### 💻 Combined Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EscanerGang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" width="32%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitoMC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" width="32%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyran1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EscanerGang&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&langs_count=6" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitoMC&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&langs_count=6" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyran1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&langs_count=6" width="32%" />
 
 <br>
 
 ### 🛠️ Technologies We Use
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven,git,github,vscode,idea,docker,linux,mysql,redis&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven,git,github,vscode,idea,docker,linux,mysql,redis&perline=6&theme=dark" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Spigot-ED8B00?style=for-the-badge&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/Paper-00ADD8?style=for-the-badge&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/Velocity-0099FF?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Spigot-FF6B35?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Paper-FFA500?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Velocity-FF8C42?style=for-the-badge&logo=minecraft&logoColor=white" />
 
 <br><br>
 
 ### 📈 Team Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EscanerGang&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=14F195&point=00D9FF&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EscanerGang&theme=github-compact&hide_border=true&bg_color=0D1117&color=FF6B35&line=FFA500&point=FF6B35&area=true&area_color=FF6B35" width="100%" />
 
 <br>
 
@@ -355,11 +359,11 @@ cd [PROJECT_NAME]
 <br>
 
 <a href="http://discord.zaryxstudios.dev/">
-  <img src="https://img.shields.io/badge/Join_Our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" height="50" />
+  <img src="https://img.shields.io/badge/Join_Our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" height="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="../CONTRIBUTING.md">
-  <img src="https://img.shields.io/badge/Read_Contributing_Guide-14F195?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="50" />
+  <img src="https://img.shields.io/badge/Read_Contributing_Guide-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" height="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://x.com/ZaryxStudios">
@@ -407,16 +411,17 @@ cd [PROJECT_NAME]
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/ZaryxStudios?style=for-the-badge&logo=github&label=Total%20Stars&color=gold" />
-<img src="https://img.shields.io/badge/Active_Projects-10-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Team_Members-3-9945FF?style=for-the-badge" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ZaryxStudios.ZaryxStudios&style=for-the-badge&color=14F195" />
+<img src="https://img.shields.io/github/stars/ZaryxStudios?style=for-the-badge&logo=github&label=Total%20Stars&color=FFD700&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Active_Projects-10-FF6B35?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Team_Members-3-FFA500?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ZaryxStudios.ZaryxStudios&style=for-the-badge&color=FF8C42&labelColor=1a1a1a" />
 
 <br><br>
 
 ### 🎯 Project Status Overview
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'pie1':'#FF6B35', 'pie2':'#FFA500', 'pie3':'#FF8C42'}}}%%
 pie title "Project Distribution by Type"
     "Free Projects" : 5
     "Paid Projects" : 4
@@ -453,7 +458,7 @@ pie title "Project Distribution by Type"
 
 <div align="center">
 
-<img src="./img/Zaryx_Logo_Studio.png" width="100" />
+<img src="./img/Zaryx_Logo_Studio.png" width="120" />
 
 <br><br>
 
@@ -463,8 +468,8 @@ Most projects are licensed under **MIT License** unless specified otherwise.
 
 <br>
 
-[![GitHub Organization](https://img.shields.io/badge/GitHub-ZaryxStudios-181717?style=for-the-badge&logo=github)](https://github.com/ZaryxStudios)
-[![Website](https://img.shields.io/badge/Website-zaryxstudios.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zaryxstudios.com)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-ZaryxStudios-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ZaryxStudios)
+[![Website](https://img.shields.io/badge/Website-zaryxstudios.com-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a)](https://zaryxstudios.com)
 
 <br>
 
@@ -472,7 +477,7 @@ Most projects are licensed under **MIT License** unless specified otherwise.
 
 <br>
 
-<h3><i>"Code is poetry, and we're the poets."</i> ✨</h3>
+<h3><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Code+is+poetry%2C+and+we're+the+poets+%E2%9C%A8;%F0%9F%94%A5+Crafting+Excellence%2C+One+Line+at+a+Time+%F0%9F%94%A5" alt="Footer" /></h3>
 
 <br>
 
