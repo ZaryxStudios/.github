@@ -1,6 +1,14 @@
 <div align="center">
 
-# ⚡ ZARYX STUDIOS
+<!-- Banner -->
+<img src="./img/banner.png" alt="Zaryx Studios Banner" width="100%" />
+
+<br><br>
+
+<!-- Logo -->
+<img src="./img/Zaryx_Logo_Studio.png" alt="Zaryx Studios Logo" width="200" />
+
+<h1>⚡ ZARYX STUDIOS</h1>
 
 ### *Transforming Ideas Into Code*
 
@@ -64,13 +72,40 @@ We're a passionate team creating cutting-edge plugins and cores for the Minecraf
 
 <div align="center">
 
-## 📊 STATISTICS
+## 📊 TEAM STATISTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZaryxStudios&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=14F195&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaryxStudios&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=14F195&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
+### 👥 Our Core Team
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryxStudios&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaryxStudios&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=14F195&point=00D9FF" alt="Contribution Graph" width="48%" />
+</div>
+
+<div align="center">
+
+### 🔥 EscanerGang — *Lead Developer*
+
+<img src="https://github-readme-stats.vercel.app/api?username=EscanerGang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=14F195&text_color=C9D1D9&count_private=true" alt="EscanerGang Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EscanerGang&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=14F195&currStreakLabel=00D9FF" alt="EscanerGang Streak" width="49%" />
+
+---
+
+### ⚔️ CapitoMC — *Combat Systems*
+
+<img src="https://github-readme-stats.vercel.app/api?username=CapitoMC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=14F195&text_color=C9D1D9&count_private=true" alt="CapitoMC Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CapitoMC&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=14F195&currStreakLabel=00D9FF" alt="CapitoMC Streak" width="49%" />
+
+---
+
+### 🌌 Vyran1 — *Platform & Tools*
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vyran1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=14F195&text_color=C9D1D9&count_private=true" alt="Vyran1 Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vyran1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=14F195&currStreakLabel=00D9FF" alt="Vyran1 Streak" width="49%" />
+
+---
+
+### 📊 Combined Team Activity
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EscanerGang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitoMC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyran1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="32%" />
 
 </div>
 
@@ -116,8 +151,25 @@ We're always looking for passionate developers, testers, and contributors!
 <div align="center">
 
 ![GitHub Stars](https://img.shields.io/github/stars/ZaryxStudios?style=social&label=Total%20Stars)
-![GitHub Forks](https://img.shields.io/github/forks/ZaryxStudios/Clap?style=social)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZaryxStudios.ZaryxStudios)
+
+[![EscanerGang](https://img.shields.io/github/followers/EscanerGang?label=Follow%20EscanerGang&style=social)](https://github.com/EscanerGang)
+[![CapitoMC](https://img.shields.io/github/followers/CapitoMC?label=Follow%20CapitoMC&style=social)](https://github.com/CapitoMC)
+[![Vyran1](https://img.shields.io/github/followers/Vyran1?label=Follow%20Vyran1&style=social)](https://github.com/Vyran1)
+
+</div>
+
+---
+
+## 👨‍💻 MEET THE TEAM
+
+<div align="center">
+
+| Developer | Role | Division | Specialization |
+|-----------|------|----------|----------------|
+| **EscanerGang** | Lead Developer | Escaner | Core Systems & Economy |
+| **CapitoMC** | Senior Developer | Capito | Combat & Management |
+| **Vyran1** | Platform Engineer | Anly | Hub & Translation Tools |
 
 </div>
 
