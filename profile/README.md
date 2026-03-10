@@ -234,7 +234,10 @@ Multi-language translation system with API support
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/EscanerGang.png" width="120px" style="border-radius: 50%; border: 3px solid #FF6B35;" /><br>
+<a href="https://github.com/EscanerGang">
+  <img src="https://github.com/EscanerGang.png" width="120px" style="border-radius: 50%; border: 3px solid #FF6B35;" />
+</a>
+<br>
 <sub><b>🔥 EscanerGang</b></sub><br>
 <sub>Lead Developer • Escaner Division</sub>
 </td>
@@ -242,10 +245,10 @@ Multi-language translation system with API support
 </table>
 
 <a href="https://github.com/EscanerGang">
-  <img src="https://github-readme-stats.vercel.app/api?username=EscanerGang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FFA500&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="EscanerGang Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EscanerGang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FFA500&text_color=C9D1D9&cache_seconds=1800" width="49%" alt="EscanerGang Stats" />
 </a>
 <a href="https://github.com/EscanerGang">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EscanerGang&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FFA500&currStreakLabel=FF6B35" width="49%" alt="EscanerGang Streak" />
+  <img src="https://streak-stats.demolab.com?user=EscanerGang&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FFA500&currStreakLabel=FF6B35" width="49%" alt="EscanerGang Streak" />
 </a>
 
 <br><br>
@@ -254,7 +257,10 @@ Multi-language translation system with API support
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/CapitoMC.png" width="120px" style="border-radius: 50%; border: 3px solid #FF6B35;" /><br>
+<a href="https://github.com/CapitoMC">
+  <img src="https://github.com/CapitoMC.png" width="120px" style="border-radius: 50%; border: 3px solid #FF6B35;" />
+</a>
+<br>
 <sub><b>⚔️ CapitoMC</b></sub><br>
 <sub>Senior Developer • Capito Division</sub>
 </td>
@@ -262,10 +268,10 @@ Multi-language translation system with API support
 </table>
 
 <a href="https://github.com/CapitoMC">
-  <img src="https://github-readme-stats.vercel.app/api?username=CapitoMC&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FFA500&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="CapitoMC Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CapitoMC&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FFA500&text_color=C9D1D9&cache_seconds=1800" width="49%" alt="CapitoMC Stats" />
 </a>
 <a href="https://github.com/CapitoMC">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CapitoMC&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FFA500&currStreakLabel=FF6B35" width="49%" alt="CapitoMC Streak" />
+  <img src="https://streak-stats.demolab.com?user=CapitoMC&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FFA500&currStreakLabel=FF6B35" width="49%" alt="CapitoMC Streak" />
 </a>
 
 <br><br>
@@ -274,7 +280,10 @@ Multi-language translation system with API support
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/Vyran1.png" width="120px" style="border-radius: 50%; border: 3px solid #FF6B35;" /><br>
+<a href="https://github.com/Vyran1">
+  <img src="https://github.com/Vyran1.png" width="120px" style="border-radius: 50%; border: 3px solid #FF6B35;" />
+</a>
+<br>
 <sub><b>🌌 Vyran1</b></sub><br>
 <sub>Platform Engineer • Anly Division</sub>
 </td>
@@ -282,19 +291,19 @@ Multi-language translation system with API support
 </table>
 
 <a href="https://github.com/Vyran1">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vyran1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FFA500&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="Vyran1 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vyran1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FFA500&text_color=C9D1D9&cache_seconds=1800" width="49%" alt="Vyran1 Stats" />
 </a>
 <a href="https://github.com/Vyran1">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vyran1&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FFA500&currStreakLabel=FF6B35" width="49%" alt="Vyran1 Streak" />
+  <img src="https://streak-stats.demolab.com?user=Vyran1&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FFA500&currStreakLabel=FF6B35" width="49%" alt="Vyran1 Streak" />
 </a>
 
 <br><br>
 
 ### 💻 Combined Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EscanerGang&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&langs_count=6" width="32%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitoMC&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&langs_count=6" width="32%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyran1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&langs_count=6" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EscanerGang&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&langs_count=6&cache_seconds=1800" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitoMC&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&langs_count=6&cache_seconds=1800" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyran1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&langs_count=6&cache_seconds=1800" width="32%" />
 
 <br>
 
@@ -338,7 +347,7 @@ Multi-language translation system with API support
 <table align="center">
 <tr>
 <td align="center">
-<h3>🏢 ZaryxStudios</h3>
+<h3>🏢 ZaryxStudios Organization</h3>
 <a href="https://github.com/ZaryxStudios">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EscanerGang&theme=radical" width="100%" />
 </a>
@@ -346,11 +355,12 @@ Multi-language translation system with API support
 </tr>
 <tr>
 <td align="center">
+<br>
 <a href="https://github.com/ZaryxStudios">
   <img src="https://img.shields.io/github/stars/ZaryxStudios?style=for-the-badge&logo=github&label=Organization%20Stars&color=FFD700&labelColor=1a1a1a" />
 </a>
-<a href="https://github.com/ZaryxStudios">
-  <img src="https://img.shields.io/badge/View_Organization-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+<a href="https://github.com/orgs/ZaryxStudios/repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
 </a>
 </td>
 </tr>
@@ -358,9 +368,9 @@ Multi-language translation system with API support
 
 <br>
 
-[![EscanerGang Followers](https://img.shields.io/github/followers/EscanerGang?label=Follow%20EscanerGang&style=social)](https://github.com/EscanerGang)
-[![CapitoMC Followers](https://img.shields.io/github/followers/CapitoMC?label=Follow%20CapitoMC&style=social)](https://github.com/CapitoMC)
-[![Vyran1 Followers](https://img.shields.io/github/followers/Vyran1?label=Follow%20Vyran1&style=social)](https://github.com/Vyran1)
+[![EscanerGang](https://img.shields.io/github/followers/EscanerGang?label=Follow%20EscanerGang&style=social)](https://github.com/EscanerGang)
+[![CapitoMC](https://img.shields.io/github/followers/CapitoMC?label=Follow%20CapitoMC&style=social)](https://github.com/CapitoMC)
+[![Vyran1](https://img.shields.io/github/followers/Vyran1?label=Follow%20Vyran1&style=social)](https://github.com/Vyran1)
 
 </div>
 
