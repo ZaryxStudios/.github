@@ -310,9 +310,51 @@ Multi-language translation system with API support
 
 <br><br>
 
-### 📈 Team Activity
+### 📈 Team Activity Across All Divisions
 
+<!-- Activity graphs for all 3 developers -->
+<details open>
+<summary><b>🔥 EscanerGang Activity (Escaner Division)</b></summary>
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EscanerGang&theme=github-compact&hide_border=true&bg_color=0D1117&color=FF6B35&line=FFA500&point=FF6B35&area=true&area_color=FF6B35" width="100%" />
+</details>
+
+<details>
+<summary><b>⚔️ CapitoMC Activity (Capito Division)</b></summary>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CapitoMC&theme=github-compact&hide_border=true&bg_color=0D1117&color=FF6B35&line=FFA500&point=FF6B35&area=true&area_color=FF6B35" width="100%" />
+</details>
+
+<details>
+<summary><b>🌌 Vyran1 Activity (Anly Division)</b></summary>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vyran1&theme=github-compact&hide_border=true&bg_color=0D1117&color=FF6B35&line=FFA500&point=FF6B35&area=true&area_color=FF6B35" width="100%" />
+</details>
+
+<br>
+
+### 📊 Organization Overview
+
+<table align="center">
+<tr>
+<td align="center">
+<h3>🏢 ZaryxStudios</h3>
+<a href="https://github.com/ZaryxStudios">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EscanerGang&theme=radical" width="100%" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/ZaryxStudios">
+  <img src="https://img.shields.io/github/stars/ZaryxStudios?style=for-the-badge&logo=github&label=Organization%20Stars&color=FFD700&labelColor=1a1a1a" />
+</a>
+<a href="https://github.com/ZaryxStudios">
+  <img src="https://img.shields.io/badge/View_Organization-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+</a>
+</td>
+</tr>
+</table>
 
 <br>
 
