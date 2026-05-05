@@ -32,11 +32,11 @@ We build modular, high-performance plugins organized across three focused divisi
  
 | Plugin | Type | Status | License |
 |--------|------|--------|---------|
-| **Stars** — Crates Plugin | Advanced crate system with custom animations | `Remake in Progress` | Paid |
+| **Stars** — Crates Plugin | Advanced crate system with custom animations | `Launched. [Recode in Progress]` | Paid |
 | **Ultra** — Prison Core | Complete prison server core with mines, ranks & economy | `Unplanned` | Paid |
-| **Water** — Kits & Enchants | Custom kits and enchantment system | `In Development` | Free |
-| **Fire** — Minions Core | Automated minion system for resource gathering | `Unplanned` | Free |
-| **Crow** — Economy Core | Multi-currency economy system with bank support | `Testing Stage` | Paid |
+| **Water** — Kits & Enchants | Custom kits and enchantment system | `Stopped` | Free |
+| **Crow** — Economy Core | Multi-currency economy system with bank support | `In Development` | Paid |
+| **ZaryxDocs** — Documentaion Wiki | A complete web to share development books | `Stopped` | Paid |
  
 <br>
  
@@ -44,9 +44,12 @@ We build modular, high-performance plugins organized across three focused divisi
  
 | Plugin | Type | Status | License |
 |--------|------|--------|---------|
-| **Bonty** — KoTH Plugin | King of the Hill with custom zones and rewards | `Testing Stage` | Free |
-| **Limbo v2** — BoxPvP Core | Complete BoxPvP with kits, arenas & stats | `In Development` | Paid |
-| **Sufaris** — Management Core | Server management suite with moderation tools | `In Development` | Paid |
+| **Fire** — Minions Core | Automated minion system for resource gathering | `In Development` | Free |
+| **[Bonty](https://github.com/ZaryxStudios/Bonty)** — KoTH Plugin | King of the Hill with custom zones and rewards | `Launched` | Free |
+| **Limbo v2** — BoxPvP Core | Complete BoxPvP with kits, arenas & stats | `Stopped` | Paid |
+| **Sufaris** — Management Core | Server management suite with moderation tools | `Stopped` | Paid |
+| **Hydra** — Cosmetics Core | A cosmetic decorations and gadgets to users | `Stopped` | Free |
+| **Artemis** — Minecraft Server | CUSTOM gamemode | `Stopped` | - |
  
 <br>
  
@@ -54,8 +57,12 @@ We build modular, high-performance plugins organized across three focused divisi
  
 | Plugin | Type | Status | License |
 |--------|------|--------|---------|
-| **Odyssey** — Hub Core | Feature-rich hub with NPCs, holograms & more | `In Development` | Free |
-| **Clap** — Translator Core | Multi-language translation system with API support | `Testing Stage` | Free + Paid |
+| **Odyssey** — Hub Core | Feature-rich hub with NPCs, holograms & more | `Stopped` | Free |
+| **[Clap](https://clap.zaryxstudios.dev)** — Translator Core | Multi-language translation system with API support | `Launched` | Free + Paid |
+| **LagDoctor** — Lag & Performance upgrader | Upgrade your server performance and remove the lag | `Stopped` | Paid |
+| **Surge** — Minecraft Server | A valorant match style adapted in Minecraft | `Stopped` | - |
+| **Orvian** — 👀 | Working to update! | `Stopped` | Free + Paid |
+
  
 <br>
  
