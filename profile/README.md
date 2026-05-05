@@ -32,7 +32,7 @@ We build modular, high-performance plugins organized across three focused divisi
  
 | Plugin | Type | Status | License |
 |--------|------|--------|---------|
-| **[Stars](https://store.zaryxstudios.dev/products/spigot-plugin-stars)** — Crates Plugin | Advanced crate system with custom animations | `Launched. [Recode in Progress]` | Paid |
+| **[Stars](https://store.zaryxstudios.dev/products/spigot-plugin-stars)** — Crates Plugin | Advanced crate system with custom animations | `Launched [Recode in Progress]` | Paid |
 | **Ultra** — Prison Core | Complete prison server core with mines, ranks & economy | `Unplanned` | Paid |
 | **Water** — Kits & Enchants | Custom kits and enchantment system | `Stopped` | Free |
 | **Crow** — Economy Core | Multi-currency economy system with bank support | `In Development` | Paid |
