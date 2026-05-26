@@ -8,7 +8,7 @@
  
 <br>
  
-[![Docs](https://img.shields.io/badge/Documentation-FF6B35?style=flat-square&logoColor=white)](https://docs.zaryxstudios.com)
+[![Docs](https://img.shields.io/badge/Documentation-FF6B35?style=flat-square&logoColor=white)](https://docs.zaryxstudios.dev)
 [![Store](https://img.shields.io/badge/Store-1a1a1a?style=flat-square&logoColor=white)](https://store.zaryxstudios.dev)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](http://discord.zaryxstudios.dev)
 [![X](https://img.shields.io/badge/@ZaryxStudios-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ZaryxStudios)
@@ -35,8 +35,9 @@ We build modular, high-performance plugins organized across three focused divisi
 | **[Stars](https://store.zaryxstudios.dev/products/spigot-plugin-stars)** — Crates Plugin | Advanced crate system with custom animations | `Launched [Recode in Progress]` | Paid |
 | **Ultra** — Prison Core | Complete prison server core with mines, ranks & economy | `Unplanned` | Paid |
 | **Water** — Kits & Enchants | Custom kits and enchantment system | `Stopped` | Free |
-| **Crow** — Economy Core | Multi-currency economy system with bank support | `In Development` | Paid |
-| **ZaryxDocs** — Wiki Web | A documentation web to share development books | `Stopped` | Paid |
+| **Crow** — Economy Core | Multi-currency economy system with bank support | `In testing stage` | Paid |
+| **ZaryxDocs** — Wiki Web | A documentation web to share development books | `In testing stage` | Paid |
+| **[ZarFramework](https://github.com/ZaryxStudios/ZarFramework)** — Framework | A framework to help developers to build spigot plugins | `In development` | Free & OpenSource |
  
 <br>
  
