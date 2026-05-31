@@ -37,7 +37,7 @@ We build modular, high-performance plugins organized across three focused divisi
 | **Water** — Kits & Enchants | Custom kits and enchantment system | `Stopped` | Free |
 | **Crow** — Economy Core | Multi-currency economy system with bank support | `In testing stage` | Paid |
 | **ZaryxDocs** — Wiki Web | A documentation web to share development books | `In testing stage` | Paid |
-| **[ZarFramework](https://github.com/ZaryxStudios/ZarFramework)** — Framework | A framework to help developers to build spigot plugins | `In development` | Free & OpenSource |
+| **[Okaso](https://github.com/ZaryxStudios/Okaso)** — Okaso | A framework to help developers to build spigot plugins | `In development` | Free & OpenSource |
  
 <br>
  
@@ -46,7 +46,7 @@ We build modular, high-performance plugins organized across three focused divisi
 | Plugin | Type | Status | License |
 |--------|------|--------|---------|
 | **Fire** — Minions Core | Automated minion system for resource gathering | `In Development` | Free |
-| **[Bonty](https://github.com/ZaryxStudios/Bonty)** — KoTH Plugin | King of the Hill with custom zones and rewards | `Launched` | Free |
+| **[Bonty](https://github.com/ZaryxStudios/Bonty)** — KoTH Plugin | King of the Hill with custom zones and rewards | `Launched` | Free & OpenSource |
 | **Limbo v2** — BoxPvP Core | Complete BoxPvP with kits, arenas & stats | `Stopped` | Paid |
 | **Sufaris** — Management Core | Server management suite with moderation tools | `Stopped` | Paid |
 | **Hydra** — Cosmetics Core | Cosmetic decorations and gadgets to users | `Stopped` | Free |
