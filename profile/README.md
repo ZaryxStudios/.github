@@ -66,10 +66,11 @@ We build modular, high-performance plugins organized across three focused divisi
 | **Water+** — Kits & Enchants | Custom kits and enchantment system | `In development stage` | Paid |
 | **Orvian** — 👀 | Working to update! | `In development stage` | - |
 | **ZaryxWeb** | Our AIO website | `In development stage` | - |
+| **Proyect Orion** | 👀👀👀 | `In planning stage` | - |
 
 ### Other proyects without developer assigned
 
-| **Proyect Orion**
+| **Nothing at this moment**
  
 <br>
  
