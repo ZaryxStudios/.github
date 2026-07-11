@@ -30,24 +30,24 @@ We build modular, high-performance plugins organized across three focused divisi
  
 ### Escaner - *Proyects*
  
-| Plugin | Type | Status | License |
+| Proyect | Description | Status | License |
 |--------|------|--------|---------|
 | **[Stars](https://store.zaryxstudios.dev/products/spigot-plugin-stars)** — Crates Plugin | Advanced crate system with custom animations | `Launched [Recode in Progress]` | Paid |
 | **Ultra** — Prison Core | Complete prison server core with mines, ranks & economy | `Unplanned` | Paid |
-| **Water** — Kits & Enchants | Custom kits and enchantment system | `Stopped` | Free |
 | **Crow** — Economy Core | Multi-currency economy system with bank support | `In testing stage` | Paid |
-| **ZaryxDocs** — Wiki Web | A documentation web to share development books | `In testing stage` | Paid |
-| **[Okaso](https://github.com/ZaryxStudios/Okaso)** — Okaso | A framework to help developers to build spigot plugins | `In development` | Free & OpenSource |
+| **[ZaryxDocs](https://store.zaryxstudios.dev/products/ZaryxDocs)** — Wiki Web | A documentation web to share development books | `Launched` | Paid |
+| **[Okaso](https://github.com/ZaryxStudios/OkasoFramework)** — Okaso | A framework to help developers to build spigot plugins | `Launched and updating` | Free & OpenSource |
+| **Proyect Alpha** | 👀👀👀 | `In development stage` | - |
  
 <br>
  
 ### Capito - *Proyects*
  
-| Plugin | Type | Status | License |
+| Proyect | Description | Status | License |
 |--------|------|--------|---------|
 | **Fire** — Minions Core | Automated minion system for resource gathering | `In Development` | Free |
 | **[Bonty](https://github.com/ZaryxStudios/Bonty)** — KoTH Plugin | King of the Hill with custom zones and rewards | `Launched` | Free & OpenSource |
-| **Limbo v2** — BoxPvP Core | Complete BoxPvP with kits, arenas & stats | `Stopped` | Paid |
+| **Limbo** — BoxPvP Core | Complete BoxPvP with kits, arenas & stats | `Stopped` | Paid |
 | **Sufaris** — Management Core | Server management suite with moderation tools | `Stopped` | Paid |
 | **Hydra** — Cosmetics Core | Cosmetic decorations and gadgets to users | `Stopped` | Free |
 | **Artemis** — Minecraft Server | A Survival RPG-OP gamemode (CUSTOM continuation) | `Stopped` | - |
@@ -56,14 +56,20 @@ We build modular, high-performance plugins organized across three focused divisi
  
 ### Anly - *Proyects*
  
-| Plugin | Type | Status | License |
+| Proyect | Description | Status | License |
 |--------|------|--------|---------|
 | **Odyssey** — Hub Core | Feature-rich hub with NPCs, holograms & more | `Stopped` | Free |
-| **[Clap](https://clap.zaryxstudios.dev)** — Translator Core | Multi-language translation system with API support | `Launched` | Free + Paid |
+| **[Clap](https://clap.zaryxstudios.dev)** — Translator Core | Multi-language translation system with API support | `EOL (End Of Life)` | - |
 | **LagDoctor** — Lag & Performance upgrader | Upgrade your server performance and remove the lag | `Stopped` | Paid |
 | **Surge** — Minecraft Server | A valorant game adapted in Minecraft | `Stopped` | - |
-| **Orvian** — 👀 | Working to update! | `Stopped` | Free + Paid |
+| **Water** — Kits & Enchants | Custom kits and enchantment system | `In testing stage` | Free |
+| **Water+** — Kits & Enchants | Custom kits and enchantment system | `In development stage` | Paid |
+| **Orvian** — 👀 | Working to update! | `In development stage` | - |
+| **ZaryxWeb** | Our AIO website | `In development stage` | - |
 
+### Other proyects without developer assigned
+
+| **Proyect Orion**
  
 <br>
  
@@ -84,7 +90,6 @@ We build modular, high-performance plugins organized across three focused divisi
 <br><br>
 <strong>EscanerGang</strong><br>
 <sub>Lead Developer · Founder</sub><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=EscanerGang&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=FF6B35&text_color=888888&hide_rank=true&hide=prs,issues&cache_seconds=1800" />
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/CapitoMC">
@@ -93,7 +98,6 @@ We build modular, high-performance plugins organized across three focused divisi
 <br><br>
 <strong>CapitoMC</strong><br>
 <sub>Senior Developer · Founder</sub><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=CapitoMC&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=FF6B35&text_color=888888&hide_rank=true&hide=prs,issues&cache_seconds=1800" />
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/Vyran1">
@@ -101,8 +105,7 @@ We build modular, high-performance plugins organized across three focused divisi
 </a>
 <br><br>
 <strong>Vyran1</strong><br>
-<sub>Platform Engineer · Co-Founder</sub><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Vyran1&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=FF6B35&text_color=888888&hide_rank=true&hide=prs,issues&cache_seconds=1800" />
+<sub>Platform Engineer · Founder</sub><br><br>
 </td>
 </tr>
 </table>
@@ -117,12 +120,12 @@ We build modular, high-performance plugins organized across three focused divisi
  
 ## Stack
  
-<div align="center">
- 
-<img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven,git,github,idea,docker,linux,mysql,redis&perline=11&theme=dark" />
- 
-</div>
- 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,css,bots,docker,electron,express,git,gradle,html,java,js,kotlin,linux,mongodb,mysql,nextjs,nginx,nodejs,php,prisma,redis,sqlite,tailwind,ts&perline=13" />
+  </a>
+</p>
+
 <br>
  
 ---
